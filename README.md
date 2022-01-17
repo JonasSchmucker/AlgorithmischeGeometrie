@@ -1,0 +1,1 @@
+Implementation der Algorithmen aus der Vorlesung Algorithmische Geometrie
